@@ -1,7 +1,11 @@
-### Hi there 👋
+### Welcome!
+
+My name is Nick Kinnaird. I am a physics PhD working as Postdoctoral Research Associate at Boston University. I have a large amount of data analysis and software development experience which I've gained as a graduate student and now postdoc while working on the Fermilab Muon g-2 physics experiment. Below you'll find some links to repositories for code I've written for various projects within the experiment. Please feel free to reach out to me if you have any questions or just want to chat about the work I've done!
 
 
-This is a test, can I see this?
+
+
+
 
 <!--
 **nkinnaird/nkinnaird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
