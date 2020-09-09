@@ -18,10 +18,10 @@ The main infrastructure and flow of the track fitting is shown below, along with
 
 <div class="row">
   <div class="column">
-    <img src="https://github.com/nkinnaird/Geane-Documentation/blob/master/Images/TrackingFlow/NewGeaneFittingFlow.png" height="250" />
+    <img src="https://github.com/nkinnaird/Geane-Documentation/blob/master/Images/TrackingFlow/NewGeaneFittingFlow.png" height="150" />
   </div>
   <div class="column">
-    <img src="https://github.com/nkinnaird/Dissertation/blob/master/KinnairdThesis/Body/Figures/TrackingFigures/Tracks/SampleTrack.png" height="250" />
+    <img src="https://github.com/nkinnaird/Dissertation/blob/master/KinnairdThesis/Body/Figures/TrackingFigures/Tracks/SampleTrack.png" height="150" />
   </div>
 </div>
 
