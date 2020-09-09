@@ -4,7 +4,7 @@ My name is Nick Kinnaird. I am a physics PhD working as Postdoctoral Research As
 
 
 
-#### 2. [`GeaneTracking`](https://github.com/nkinnaird/GeaneTrackingCode) is the codebase (primarily C++) for a track fitting algorithm utilizing $\chi^{2}$ minimization and error propagation.
+#### 2. [`GeaneTracking`](https://github.com/nkinnaird/GeaneTrackingCode) is the codebase (primarily C++) for a track fitting algorithm utilizing chi-squared minimization and error propagation.
 
 I developed a track fitting algorithm and implemented it into a larger track reconstruction framework as one of the first members of the 'Tracking Team' on the Fermilab Muon Muon <i>g − 2</i> experiment. This track fitting algorithm essentially combines separate hits across a detector into a single track, and then uses that information to relay information about the performance and conditions of the experiment. The track fitting algorithm fits large amounts (TBs) of incoming data with high fidelity to provide vital telemetry for the experiment, and is still in use today. The algorithm was developed and tested with Monte Carlo simulations and statistically verified before its implementation into the larger framework and put into production. A separate repository containing the [`Documentation`](https://github.com/nkinnaird/Geane-Documentation) can be found which details the algorithm and it's implementation.
 
