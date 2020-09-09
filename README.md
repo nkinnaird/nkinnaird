@@ -10,13 +10,36 @@ I developed a track fitting algorithm and implemented it into a larger track rec
 
 The main infrastructure and flow of the track fitting is shown below, along with a sample fitted track that the algorithm was successfully applied to.
 
-<div style="text-align:left"><img src="https://github.com/nkinnaird/Geane-Documentation/blob/master/Images/TrackingFlow/NewGeaneFittingFlow.png" height="250" /></div> <div style="text-align:right"><img src="https://github.com/nkinnaird/Dissertation/blob/master/KinnairdThesis/Body/Figures/TrackingFigures/Tracks/SampleTrack.png" height="250" /></div>
+<!--
+![](https://github.com/nkinnaird/Geane-Documentation/blob/master/Images/TrackingFlow/NewGeaneFittingFlow.png) ![](https://github.com/nkinnaird/Dissertation/blob/master/KinnairdThesis/Body/Figures/TrackingFigures/Tracks/SampleTrack.png)
+-->
+
+
+
+<div class="row">
+  <div class="column">
+    img src="https://github.com/nkinnaird/Geane-Documentation/blob/master/Images/TrackingFlow/NewGeaneFittingFlow.png" height="250" />
+  </div>
+  <div class="column">
+    <img src="https://github.com/nkinnaird/Dissertation/blob/master/KinnairdThesis/Body/Figures/TrackingFigures/Tracks/SampleTrack.png" height="250" />
+  </div>
+</div>
+
+
+
+
 
 
 
 
 <!--
 **nkinnaird/nkinnaird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+<div style="text-align:left"><img src="https://github.com/nkinnaird/Geane-Documentation/blob/master/Images/TrackingFlow/NewGeaneFittingFlow.png" height="250" /></div> 
+
+<div style="text-align:right"><img src="https://github.com/nkinnaird/Dissertation/blob/master/KinnairdThesis/Body/Figures/TrackingFigures/Tracks/SampleTrack.png" height="250" /></div>
+
 
 Here are some ideas to get you started:
 
