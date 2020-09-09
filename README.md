@@ -11,8 +11,8 @@ I developed a track fitting algorithm and implemented it into a larger track rec
 The main infrastructure and flow of the track fitting is shown below, along with a sample fitted track that the algorithm was successfully applied to.
 
 <p float="left">
-  <img src="https://github.com/nkinnaird/Geane-Documentation/blob/master/Images/TrackingFlow/NewGeaneFittingFlow.png" height="250" />
-  <img src="https://github.com/nkinnaird/Dissertation/blob/master/KinnairdThesis/Body/Figures/TrackingFigures/Tracks/SampleTrack.png" height="250" />
+  <img src="https://github.com/nkinnaird/Geane-Documentation/blob/master/Images/TrackingFlow/NewGeaneFittingFlow.png" height="220" />
+  <img src="https://github.com/nkinnaird/Dissertation/blob/master/KinnairdThesis/Body/Figures/TrackingFigures/Tracks/SampleTrack.png" height="220" />
 </p>
 
 
