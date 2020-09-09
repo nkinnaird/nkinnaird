@@ -16,15 +16,12 @@ The main infrastructure and flow of the track fitting is shown below, along with
 
 
 
-<div class="row">
-  <div class="column">
-    <img src="https://github.com/nkinnaird/Geane-Documentation/blob/master/Images/TrackingFlow/NewGeaneFittingFlow.png" height="150" />
-  </div>
-  <div class="column">
-    <img src="https://github.com/nkinnaird/Dissertation/blob/master/KinnairdThesis/Body/Figures/TrackingFigures/Tracks/SampleTrack.png" height="150" />
-  </div>
-</div>
 
+
+<p float="left">
+  <img src="https://github.com/nkinnaird/Geane-Documentation/blob/master/Images/TrackingFlow/NewGeaneFittingFlow.png" height="250" />
+  <img src="https://github.com/nkinnaird/Dissertation/blob/master/KinnairdThesis/Body/Figures/TrackingFigures/Tracks/SampleTrack.png" height="250" />
+</p>
 
 
 
@@ -34,6 +31,16 @@ The main infrastructure and flow of the track fitting is shown below, along with
 
 <!--
 **nkinnaird/nkinnaird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/nkinnaird/Geane-Documentation/blob/master/Images/TrackingFlow/NewGeaneFittingFlow.png" height="150" />
+  </div>
+  <div class="column">
+    <img src="https://github.com/nkinnaird/Dissertation/blob/master/KinnairdThesis/Body/Figures/TrackingFigures/Tracks/SampleTrack.png" height="150" />
+  </div>
+</div>
 
 
 <div style="text-align:left"><img src="https://github.com/nkinnaird/Geane-Documentation/blob/master/Images/TrackingFlow/NewGeaneFittingFlow.png" height="250" /></div> 
