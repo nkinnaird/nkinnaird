@@ -18,9 +18,6 @@ The main infrastructure and flow of the track fitting is shown below, along with
 
 
 
-
-
-
 <!--
 **nkinnaird/nkinnaird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
