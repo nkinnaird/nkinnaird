@@ -6,7 +6,7 @@ My name is Nick Kinnaird. I am a physics PhD working as Postdoctoral Research As
 
 One primary component of the Fermilab Muon Muon <i>g − 2</i> experiment is the extraction of a specific so-called 'precession' frequency from large amounts (PBs) of data to high precision. As one of the lead analyzers for the first data-taking period of the experiment, I developed code which fit the data in a specific way which reduced systematic biases, while including physical and mathematical models. As part of the project I conducted many statistical and systematic evaluations on the data and results of the fits in order to verify the understanding of the data and provide an understanding of any errors in the extracted frequency. Lastly, I conducted many smaller toy Monte Carlo projects in order to develop my understanding of the real, sometimes messy, data in a clean environment.
 
-Below is an image containing the final (blinded) fits to the four datasets gathered in the first data-taking period of the experiment, where the precision on the extracted frequncies are sub-parts-per-million (ppm).
+Below is an image containing the final (blinded) fits to the four datasets gathered in the first data-taking period of the experiment, where the precision on the extracted frequncies are sub-parts-per-million (ppm), as well as a plot of the fit residuals and associated FFT for one of the datasets.
 
 <!--
 <div style="text-align:left"><img src="https://github.com/nkinnaird/PrecessionFrequencyAnalysis/blob/master/PlotsForReadme/DatasetRatioFits.png" height="400" /></div> 
@@ -26,8 +26,8 @@ I developed a track fitting algorithm and implemented it into a larger track rec
 The main infrastructure and flow of the track fitting is shown below, along with a sample fitted track that the algorithm was successfully applied to.
 
 <p float="left">
-  <img src="https://github.com/nkinnaird/Geane-Documentation/blob/master/Images/TrackingFlow/NewGeaneFittingFlow.png" height="220" />
-  <img src="https://github.com/nkinnaird/Dissertation/blob/master/KinnairdThesis/Body/Figures/TrackingFigures/Tracks/SampleTrack.png" height="220" />
+  <img src="https://github.com/nkinnaird/Geane-Documentation/blob/master/Images/TrackingFlow/NewGeaneFittingFlow.png" height="250" />
+  <img src="https://github.com/nkinnaird/Dissertation/blob/master/KinnairdThesis/Body/Figures/TrackingFigures/Tracks/SampleTrack.png" height="250" />
 </p>
 
 
