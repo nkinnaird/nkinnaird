@@ -8,7 +8,15 @@ One primary component of the Fermilab Muon Muon <i>g − 2</i> experiment is the
 
 Below is an image containing the final (blinded) fits to the four datasets gathered in the first data-taking period of the experiment, where the precision on the extracted frequncies are sub-parts-per-million (ppm).
 
+<!--
 <div style="text-align:left"><img src="https://github.com/nkinnaird/PrecessionFrequencyAnalysis/blob/master/PlotsForReadme/DatasetRatioFits.png" height="400" /></div> 
+-->
+
+<p float="left">
+  <img src="https://github.com/nkinnaird/PrecessionFrequencyAnalysis/blob/master/PlotsForReadme/DatasetRatioFits.png" height="250" />
+  <img src="https://github.com/nkinnaird/PrecessionFrequencyAnalysis/blob/master/PlotsForReadme/FitResidualFFT.png" height="250" />
+</p>
+
 
 
 #### 2. [`GeaneTracking`](https://github.com/nkinnaird/GeaneTrackingCode) is the codebase (primarily C++) for a track fitting algorithm utilizing <img src="https://render.githubusercontent.com/render/math?math=\chi^{2}"> minimization and error propagation.
