@@ -2,7 +2,9 @@
 
 My name is Nick Kinnaird. I am a physics PhD working as Postdoctoral Research Associate at Boston University. I have a large amount of data analysis and software development experience which I've gained as a graduate student and now postdoc while working on the Fermilab Muon <i>g − 2</i> physics experiment. Below you'll find some links to repositories for code I've written for various projects within the experiment. My [`Dissertation`](https://github.com/nkinnaird/Dissertation) in particular includes the results of much of my work. Please feel free to reach out to me if you have any questions or just want to chat about the work I've done!
 
+#### 1. [`PrecessionFrequencyAnalysis`](https://github.com/nkinnaird/PrecessionFrequencyAnalysis) is the codebase (C++, C, bash) for a high precision frequency analysis project and associated systematic and statistical evaluations.
 
+One primary component of the Fermilab Muon Muon <i>g − 2</i> experiment is the extraction of a specific so-called 'precession' frequency from large amounts (PBs) of data to high precision. As one of the lead analyzers for the first data-taking period of the experiment, I developed code which fit the data in a specific way which reduced systematic biases, while including physical and mathematical models. As part of the project I conducted many statistical and systematic evaluations on the data and results of the fits in order to verify the understanding of the data and provide an understanding of any errors in the extracted frequency. Lastly, I conducted many smaller toy Monte Carlo projects in order to develop my understanding of the real, sometimes messy, data in a clean environment.
 
 #### 2. [`GeaneTracking`](https://github.com/nkinnaird/GeaneTrackingCode) is the codebase (primarily C++) for a track fitting algorithm utilizing <img src="https://render.githubusercontent.com/render/math?math=\chi^{2}"> minimization and error propagation.
 
