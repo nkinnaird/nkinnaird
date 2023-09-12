@@ -1,9 +1,10 @@
 ### Hi there!
 
-My name is Nick Kinnaird. I'm a physics PhD turned data scientist. For information on me and various projects I've worked on, visit my website [here](https://nkinnaird.github.io/). Check out my project repositories and please feel free to send any questions or messages you may have my way.
+My name is Nick Kinnaird. I'm a physics PhD turned data scientist/machine learning engineer. Check out my project repositories and please feel free to send any questions or messages you may have my way.
 
-
-
+<!--
+For information on me and various projects I've worked on, visit my website [here](https://nkinnaird.github.io/). 
+-->
 
 
 
